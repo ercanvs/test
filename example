@@ -3,3 +3,4 @@ git branch
 git pull 
 git push
 
+git merge master develop
